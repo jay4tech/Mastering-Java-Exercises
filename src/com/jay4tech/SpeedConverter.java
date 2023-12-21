@@ -11,7 +11,7 @@ public class SpeedConverter {
 
 
         2. Write another method called printConversion with 1 parameter of type double with the name kilometersPerHour.
-        
+
             This method should not return anything (void) and it needs to calculate milesPerHour from the kilometersPerHour parameter.
 
             Then it needs to print a message in the format "XX km/h = YY mi/h".
