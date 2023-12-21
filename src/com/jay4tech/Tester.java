@@ -5,5 +5,6 @@ public class Tester {
         System.out.println("Hello world!");
 
         PositiveNegativeZero.checkNumber(-10);
+        SpeedConverter.printConversion(354);
     }
 }
