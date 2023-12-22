@@ -10,7 +10,7 @@ public class ComplexNumber {
         Write a class with the name ComplexNumber. The class needs two fields (instance variables) with name real and imaginary of type double. It represents the Complex Number.
 
         The class needs to have one constructor. The constructor has parameters real and imaginary of type double and it needs to initialize the fields.
-        
+
         Write the following methods (instance methods):
 
         Method named getReal without any parameters, it needs to return the value of real field.
